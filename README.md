@@ -1,7 +1,7 @@
 ### Helloo! my name is Patricia aka CanoaFurada!
 
 
-- 🔭 I’m currently working on html language, C, CSS,and C++ for Arduinos!
+- 🔭 I’m currently working on Flutter, Java, Dart and HTMl with CSS!
 - 🌱 I’m currently learning Java and the others languages that i work on!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I´m obssessed with Star Wars since i was 9-10 years old and i have a photo with Darth Vader on the museum!
