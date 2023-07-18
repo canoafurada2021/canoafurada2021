@@ -1,4 +1,4 @@
-### Helloo! my name is Patricia aka CanoaFurada!
+### Hello! my name is Patricia!
 
 
 - 🔭 I’m currently working on Flutter, Java, Dart and HTMl with CSS!
